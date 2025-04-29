@@ -6,8 +6,8 @@ toolchain go1.23.5
 
 require (
 	github.com/charmbracelet/bubbles v0.20.0
-	github.com/charmbracelet/bubbletea v1.2.4
-	github.com/charmbracelet/lipgloss v1.0.0
+	github.com/charmbracelet/bubbletea v1.3.5
+	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/charmbracelet/x/exp/teatest v0.0.0-20241220083205-e9f42afc4e49
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/defenseunicorns/go-oscal v0.6.2
@@ -18,7 +18,7 @@ require (
 	github.com/hashicorp/go-version v1.7.0
 	github.com/kyverno/kyverno-json v0.0.3
 	github.com/mattn/go-runewidth v0.0.16
-	github.com/muesli/termenv v0.15.2
+	github.com/muesli/termenv v0.16.0
 	github.com/open-policy-agent/conftest v0.56.0
 	github.com/open-policy-agent/opa v0.70.0
 	github.com/pterm/pterm v0.12.80
@@ -60,7 +60,9 @@ require (
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/bufbuild/protocompile v0.6.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/charmbracelet/x/ansi v0.4.5 // indirect
+	github.com/charmbracelet/colorprofile v0.2.3-0.20250311203215-f60798e515dc // indirect
+	github.com/charmbracelet/x/ansi v0.8.0 // indirect
+	github.com/charmbracelet/x/cellbuf v0.0.13-0.20250311204145-2c3ea96c31dd // indirect
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240919170804-a4978c8e603a // indirect
 	github.com/charmbracelet/x/term v0.2.1 // indirect
 	github.com/cockroachdb/apd/v3 v3.2.1 // indirect
@@ -175,8 +177,8 @@ require (
 	golang.org/x/mod v0.21.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/oauth2 v0.23.0 // indirect
-	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sync v0.13.0 // indirect
+	golang.org/x/sys v0.32.0 // indirect
 	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
