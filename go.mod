@@ -20,7 +20,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.16
 	github.com/muesli/termenv v0.15.2
 	github.com/open-policy-agent/conftest v0.56.0
-	github.com/open-policy-agent/opa v0.70.0
+	github.com/open-policy-agent/opa v1.4.0
 	github.com/pterm/pterm v0.12.80
 	github.com/sergi/go-diff v1.3.1
 	github.com/spf13/cobra v1.8.1
