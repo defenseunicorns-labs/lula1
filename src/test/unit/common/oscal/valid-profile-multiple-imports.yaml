@@ -1,6 +1,6 @@
 profile:
   imports:
-    - href: https://raw.githubusercontent.com/usnistgov/oscal-content/refs/heads/main/nist.gov/SP800-53/rev5/yaml/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.yaml
+    - href: https://raw.githubusercontent.com/usnistgov/oscal-content/refs/tags/v1.4.0/nist.gov/SP800-53/rev5/yaml/NIST_SP-800-53_rev5_MODERATE-baseline-resolved-profile_catalog.yaml
       include-controls:
         - with-ids:
             - ac-2

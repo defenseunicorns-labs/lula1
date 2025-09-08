@@ -209,7 +209,7 @@ func TestCreateSourceControlsMap(t *testing.T) {
 func TestRemapSourceToUUID(t *testing.T) {
 	sourceMap := map[string]string{
 		"https://raw.githubusercontent.com/GSA/fedramp-automation/refs/tags/fedramp-2.0.0-oscal-1.0.4/dist/content/rev5/baselines/json/FedRAMP_rev5_MODERATE-baseline-resolved-profile_catalog.json": "foo",
-		"https://raw.githubusercontent.com/defenseunicorns/lula/refs/heads/main/src/test/unit/common/validation/validation.opa.yaml":                                                                 "not-oscal",
+		"https://raw.githubusercontent.com/defenseunicorns-labs/lula1/refs/heads/main/src/test/unit/common/validation/validation.opa.yaml":                                                           "not-oscal",
 		"not-a-link": "bar",
 	}
 

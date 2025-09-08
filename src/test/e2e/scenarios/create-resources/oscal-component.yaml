@@ -114,7 +114,7 @@ component-definition:
                       restartPolicy: Never
             - name: remotePod
               namespace: validation-test
-              file: 'https://raw.githubusercontent.com/defenseunicorns/lula/main/src/test/e2e/scenarios/pod-label/pod.pass.yaml'
+              file: 'https://raw.githubusercontent.com/defenseunicorns-labs/lula1/main/src/test/e2e/scenarios/pod-label/pod.pass.yaml'
         provider: 
           type: opa
           opa-spec:

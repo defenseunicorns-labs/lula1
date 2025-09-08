@@ -15,7 +15,7 @@ provider:
   type: opa
   opa-spec:
     modules:
-      lula.labels: https://raw.githubusercontent.com/defenseunicorns/lula/main/src/test/e2e/scenarios/pod-label/labels.rego
+      lula.labels: https://raw.githubusercontent.com/defenseunicorns-labs/lula1/main/src/test/e2e/scenarios/pod-label/labels.rego
     rego: |
       package validate
 

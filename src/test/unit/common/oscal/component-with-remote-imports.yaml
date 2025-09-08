@@ -1,7 +1,7 @@
 component-definition:
   uuid: b2029d73-5b65-4656-bd5e-45b498a95059
   import-component-definitions:
-    - href: https://raw.githubusercontent.com/defenseunicorns/lula/refs/heads/main/src/test/unit/common/oscal/valid-component.yaml
+    - href: https://raw.githubusercontent.com/defenseunicorns-labs/lula1/refs/heads/main/src/test/unit/common/oscal/valid-component.yaml
   metadata:
     title: Test ComponentDefinition ImportComponentDefinitions
     last-modified: "2025-01-21T12:00:00Z"

@@ -37,10 +37,10 @@ component-definition:
                 - href: "#a7377430-2328-4dc4-a9e2-b3f31dc1dff9"
                   rel: lula
                   # remote opa validation
-                - href: https://raw.githubusercontent.com/defenseunicorns/lula/main/src/test/e2e/scenarios/dev-validate/validation.yaml
+                - href: https://raw.githubusercontent.com/defenseunicorns-labs/lula1/main/src/test/e2e/scenarios/dev-validate/validation.yaml
                   rel: lula
                 # remote kyverno validation
-                - href: https://raw.githubusercontent.com/defenseunicorns/lula/main/src/test/e2e/scenarios/dev-validate/validation.kyverno.yaml
+                - href: https://raw.githubusercontent.com/defenseunicorns-labs/lula1/main/src/test/e2e/scenarios/dev-validate/validation.kyverno.yaml
                   rel: lula
   back-matter:
     resources:
