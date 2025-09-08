@@ -66,7 +66,7 @@ func TestGenerateSSPCommand(t *testing.T) {
 		outputFile := filepath.Join(tempDir, "output.yaml")
 
 		args := []string{
-			"--profile", "https://raw.githubusercontent.com/defenseunicorns/lula/refs/heads/main/src/test/unit/common/oscal/valid-profile-remote-rev4.yaml",
+			"--profile", "https://raw.githubusercontent.com/defenseunicorns-labs/lula1/refs/heads/main/src/test/unit/common/oscal/valid-profile-remote-rev4.yaml",
 			"-o", outputFile,
 		}
 		err := test(t, args...)

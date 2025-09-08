@@ -49,7 +49,7 @@ component-definition:
             file-spec:
               filepaths:
               - Name: config
-                path: https://raw.githubusercontent.com/defenseunicorns/lula/refs/heads/main/src/test/e2e/scenarios/file-validations/pass/config.json
+                path: https://raw.githubusercontent.com/defenseunicorns-labs/lula1/refs/heads/main/src/test/e2e/scenarios/file-validations/pass/config.json
           provider:
             type: opa
             opa-spec:
