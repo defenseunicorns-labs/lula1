@@ -54,7 +54,7 @@ func TestParseUrl(t *testing.T) {
 		},
 		{
 			name:         "With Checksum",
-			input:        "file://../../../test/e2e/scenarios/remote-validations/validation.opa.yaml@e54ef0acc10d2cdf9617ea288eb0ffac45366a8217845026bd03a2768a7deeb1",
+			input:        "file://../../../test/e2e/scenarios/remote-validations/validation.opa.yaml@6d121e2f8beeb59390156852a68a7e470ab027cb64e226edba24017fc823de47",
 			wantErr:      false,
 			wantChecksum: true,
 		},
