@@ -229,7 +229,7 @@ func TestResolveProfileControls(t *testing.T) {
 					"s1.1.1",
 					"s2.1.1",
 				},
-				"4b12cf47-447b-47bb-8653-0a9cf544b744": {
+				"b5477d23-54c2-442e-a3ad-f3810cacf460": {
 					"ac-2",
 					"ac-3",
 				},
