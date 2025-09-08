@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.17.0](https://github.com/defenseunicorns-labs/lula1/compare/v0.16.0...v0.17.0) (2025-09-08)
+
+
+### Features
+
+* update ssp generation ([#905](https://github.com/defenseunicorns-labs/lula1/issues/905)) ([5cb7313](https://github.com/defenseunicorns-labs/lula1/commit/5cb7313825fb6db22543c537915d817904085c09))
+
+
+### Bug Fixes
+
+* **test:** update testing for new repo location ([#933](https://github.com/defenseunicorns-labs/lula1/issues/933)) ([d51dc3c](https://github.com/defenseunicorns-labs/lula1/commit/d51dc3cef3f28da3c8c3d1b92a5a70e372660ffe))
+
+
+### Miscellaneous
+
+* **docs:** update roadmap draft for 2025 ([#902](https://github.com/defenseunicorns-labs/lula1/issues/902)) ([8dad3b6](https://github.com/defenseunicorns-labs/lula1/commit/8dad3b6b63c807f00f836397588ef4b6b2fe180c))
+
 ## [0.16.0](https://github.com/defenseunicorns/lula/compare/v0.15.0...v0.16.0) (2025-01-31)
 
 
