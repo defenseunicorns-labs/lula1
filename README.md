@@ -1,5 +1,9 @@
 # Lula - The Cloud-Native Compliance Engine
 
+> [!IMPORTANT]
+> This project is no longer under active development. It is in a maintenance support phase and will receive updates for critical security findings. Please create issues if you have any questions or concerns.
+> Please see [defenseunicorns/lula](https://github.com/defenseunicorns/lula) for more information on the latest evolution of Lula.
+
 [![Lula Documentation](https://img.shields.io/badge/docs--d25ba1)](https://docs.lula.dev)
 [![Go version](https://img.shields.io/github/go-mod/go-version/defenseunicorns/lula?filename=go.mod)](https://go.dev/)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/defenseunicorns/lula/badge)](https://api.securityscorecards.dev/projects/github.com/defenseunicorns/lula)
