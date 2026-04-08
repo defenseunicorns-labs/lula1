@@ -17,7 +17,7 @@ require (
 	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/hashicorp/go-version v1.7.0
 	github.com/kyverno/kyverno-json v0.0.3
-	github.com/mattn/go-runewidth v0.0.16
+	github.com/mattn/go-runewidth v0.0.23
 	github.com/muesli/termenv v0.15.2
 	github.com/open-policy-agent/conftest v0.56.0
 	github.com/open-policy-agent/opa v0.70.0
@@ -63,6 +63,7 @@ require (
 	github.com/charmbracelet/x/ansi v0.4.5 // indirect
 	github.com/charmbracelet/x/exp/golden v0.0.0-20240919170804-a4978c8e603a // indirect
 	github.com/charmbracelet/x/term v0.2.1 // indirect
+	github.com/clipperhouse/uax29/v2 v2.2.0 // indirect
 	github.com/cockroachdb/apd/v3 v3.2.1 // indirect
 	github.com/containerd/console v1.0.4 // indirect
 	github.com/containerd/typeurl/v2 v2.2.0 // indirect
