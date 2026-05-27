@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       
       - name: run kics Scan
-        uses: checkmarx/kics-github-action@5a6152ef88416063435cebadfec9de28bcfd041d # v2.1.4
+        uses: checkmarx/kics-github-action@05aa5eb70eede1355220f4ca5238d96b397e30a6 # v2.1.20
         with:
           path: 'demo,src'
           output_formats: 'sarif'
